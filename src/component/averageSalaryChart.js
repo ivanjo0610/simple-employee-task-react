@@ -52,7 +52,7 @@ class AverageSalaryChart extends Component {
 			exportEnabled: true,
 			theme: "light2", //"light1", "dark1", "dark2"
 			title:{
-				text: "Average Age Group By Title"
+				text: "Average Salary Group By Title"
 			},
 			axisY: {
 				includeZero: true,
